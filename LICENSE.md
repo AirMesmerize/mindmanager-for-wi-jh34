@@ -1,4 +1,4 @@
-
+rare MindManager for Windows Module | drag-and-drop + Gantt-view is the best MindManager for Windows module, featuring drag-and-drop and Gantt-view. Powerful, efficient, and
 
 
 
